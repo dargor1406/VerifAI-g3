@@ -1,0 +1,5 @@
+{
+  "name": "VerifAI G3",
+  "description": "An application to generate a verifiable certificate of human agency for any work you create with AI, ensuring transparency and accountability in the creative process.",
+  "requestFramePermissions": []
+}
